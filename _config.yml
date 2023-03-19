@@ -22,7 +22,7 @@ title: 信伟的个人博客
 
 email: xinween.gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  信伟的个人博客正式上线了，欢迎大家一起来交流。
+  信伟的个人博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -35,8 +35,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-show_downloads: ["false"]
-google_analytics: [制药设备验证，制药设备验证文件]
+#show_downloads: ["false"]
+#google_analytics: [制药设备验证，制药设备验证文件]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
